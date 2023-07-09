@@ -2,7 +2,7 @@
 
 ## Требования
 + [Node.js](https://nodejs.org/en)
-+ [npm](https://www.npmjs.com/)(обычно устанавливается вместе с Node.js)
++ [npm](https://www.npmjs.com/) (обычно устанавливается вместе с Node.js)
 
 
 ## Установка
