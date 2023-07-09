@@ -1,11 +1,11 @@
 # SchoolSchedules
 
-##Требования
-+[Node.js](https://nodejs.org/en)
-+[npm](https://www.npmjs.com/)(обычно устанавливается вместе с Node.js)
+## Требования
++ [Node.js](https://nodejs.org/en)
++ [npm](https://www.npmjs.com/)(обычно устанавливается вместе с Node.js)
 
 
-##Установка
+## Установка
 1. Склонируйте репозиторий приложения с помощью команды git:
 ```bash
 git clone https://github.com/KatrinaSav/SchoolSchedules
@@ -17,7 +17,7 @@ git clone https://github.com/KatrinaSav/SchoolSchedules
 npm install
 ```
 
-##Запуск
+## Запуск
 
 После успешной установки вы можете запустить приложение командой:
 ```bash
