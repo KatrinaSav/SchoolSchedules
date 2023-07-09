@@ -15,7 +15,7 @@ git clone https://github.com/KatrinaSav/SchoolSchedules
 ```bash
 cd SchoolSchedules
 ```
-4. Установите зависимости с помощью npm:
+3. Установите зависимости с помощью npm:
 ```bash
 npm install
 ```
